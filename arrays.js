@@ -40,5 +40,5 @@ var newArray = [array,element]
 function destructivelyRemoveElementFromEndOfArray (array,element){
   array.pop(element)
   return array
-  
+
 }
